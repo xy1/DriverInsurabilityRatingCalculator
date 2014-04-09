@@ -79,7 +79,7 @@ class Calculator {
 				<tr><td class='labelback'>Digitization factor
 					<td class='table_cell'><input id=Digitization name=Digitization value='{$input['Digitization']}'
 					onblur='submit()' style='width: 50px;' />
-				<tr><td class='labelback'>Years in business
+				<tr><td class='labelback'>History
 					<td class='table_cell'><input id=History name=History value='{$input['History']}'
 					onblur='submit()' style='width: 25px;' />
 				<tr><td class='labelback'>Readings
