@@ -1,4 +1,4 @@
-Insurability Rating Calculator
+Driver Insurability Rating Calculator
 =====================
 
 This provides an input form to enter sample values for an automobile driver and view the resulting rating score.
