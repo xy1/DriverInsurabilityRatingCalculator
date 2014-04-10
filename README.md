@@ -1,8 +1,5 @@
-13-Factor Score Formula Calculator
+Driver Insurability Rating Calculator
 =====================
-
-(This calculator tool is based on one built for a confidential project.  The factors have been renamed and the logic
-and values modified.)
 
 This simple web app provides an input form to enter sample values for a 13-factor formula and see the resulting
 scores.
