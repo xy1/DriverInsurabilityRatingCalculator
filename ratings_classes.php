@@ -491,7 +491,7 @@ EOT;
 				Complaint volume <td class='table_cell'>0 to 15<td class='labelback right'>" .
 				round($Points['Incidents']);
 			echo "<tr><td class='table_cell'>3<td class='table_cell'>
-				Unprocessed<td class='table_cell'>0 to 40<td class='labelback labelback right'>" .
+				Unprocessed<td class='table_cell'>0 to 40<td class='labelback right'>" .
 				round($Points['Unprocessed']);
 			echo "<tr><td class='table_cell'>4<td class='table_cell'>
 				Unresolved<td class='table_cell'>0 to 30<td class='labelback right'>" .
@@ -503,7 +503,7 @@ EOT;
 				Pattern<td class='table_cell'>0 to -11<td class='labelback right'>" .
 				round($Points['Pattern']);
 			echo "<tr><td class='table_cell'>7<td class='table_cell'>
-				Illegal/scam TOB<td class='table_cell'>0 to -41<td class='labelback right'>" .
+				Driver type<td class='table_cell'>0 to -41<td class='labelback right'>" .
 				round($Points['Type']);
 			echo "<tr><td class='table_cell'>8<td class='table_cell'>
 				Competency licensing<td class='table_cell'>0 to -41<td class='labelback right'>" .
