@@ -1,12 +1,12 @@
 <?php
 
-/**
- * Classes for Driver Insurability Rating Calculator
+/*
+ * Driver Insurability Rating Calculator
  *
- * @author	xy1
- * @copyright	XXX 2014
- * @since	4/9/2014
- *
+ * This is a quickly-constructed, stand-alone page used for modeling changes to a insurance rating formula.
+ * The class contains both a basic UI and the business logic, although separated by function.
+ * This took me a couple working days to get a usable version.
+ * 
  */
 
 class Calculator {
