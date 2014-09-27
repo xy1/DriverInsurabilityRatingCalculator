@@ -3,7 +3,7 @@
 /*
  * Driver Insurability Rating Calculator
  *
- * This is a rapidly-constructed, stand-alone page used for modeling changes to a insurance rating formula.
+ * This is a stand-alone page, rapidly-constructed for modeling changes to a insurance rating formula.
  * The class contains both a basic UI and the business logic, although separated by function.
  * This took me a couple working days to get a usable version.
  * 
